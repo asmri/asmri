@@ -4,12 +4,12 @@
 
 i'm try to become a developer 
 
-Skills: CSS | HTML | Python | PHP | Bash
+Skills: CSS | HTML | Python | PHP 
 
 - 🔭 I’m currently working on Private Project 
-- 🌱 I’m currently learning Python, REACT, and other  
+- 🌱 I’m currently learning Python
 - 💬 Ask me about Servers and Networks 
-- 📫 How to reach me: 911 
+<!-- - 📫 How to reach me: 911  -->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asmri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soalasmari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/soalasmari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/soalasmari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13273526/asmri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](asmri.net)  
